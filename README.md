@@ -13,4 +13,4 @@ Dự án này gồm 3 trang chia sẻ chung một hệ thống thiết kế nh�
 - **Figma (View only):** https://www.figma.com/design/L4jb249t52je3EFdhPK8lI/Mid-term?node-id=0-1&t=pS1s9j6m7UpxcbMo-1
 
 ## Link Live Demo:
-- **Live Demo:** 
+- **Live Demo:** https://2400009312-debug.github.io/Mid-term/
