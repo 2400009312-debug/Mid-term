@@ -1,7 +1,7 @@
 ## Thông tin sinh viên
 - **Họ và tên:** SOUTHIVONG PHOUSITH
 - **MSSV:** 2400009312
-- **Ngày sinh:**13/01/2005
+- **NGAY SINH:** 13/01/2005
 
 ## Topic
 Dự án này gồm 3 trang chia sẻ chung một hệ thống thiết kế nhất quán (tông màu giấy ấm, phông chữ Fraunces + Inter):
